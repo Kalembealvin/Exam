@@ -1,0 +1,70 @@
+body{
+    background-color: #344a72 ;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Sign-up{
+    width: 360px;
+    height: 660px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+h4{ 
+    text-align: center;
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-color: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: whitesmoke;
+    font-size: 25px;
+
+}
+
+p{
+    text-align: Center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.end{
+    text-align: center;
+    color: honeydew;
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.end{
+    color: #49c1a2; 
+}
